@@ -14,7 +14,6 @@ function App() {
         <p>My really cool blog site</p>
       </header>
       <AutoReview />
-      =======
       <BiologyToday />
     </div>
   );
